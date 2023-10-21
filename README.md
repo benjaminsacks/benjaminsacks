@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminsacks
-- 👀 I’m interested in augmneted reality, virtual reality, and interaction design
-- 🌱 I’m currently studying Data Science at University of California, San Diego
+- 👀 I’m interested in machine learning, data analytics, and AI
+- 🌱 I recently graduated from UC San Diego with a degree in Data Science and minors in Business and Design
 - 📫 You can reach me by email at nadoben21@gmail.com
 
 ### 🛠 &nbsp;Languages and Tools :
