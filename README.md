@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benjaminsacks
 - 👀 I’m interested in machine learning, data analytics, and AI
 - 🌱 I recently graduated from UC San Diego with a degree in Data Science and minors in Business and Design
-- 📫 You can reach me by email at nadoben21@gmail.com
+- 📫 You can reach me by email at benjaminsacks01@gmail.com
 
 ### 🛠 &nbsp;Languages and Tools :
 
