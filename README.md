@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @benjaminsacks
-- 👀 I’m interested in machine learning, data analytics, and AI
-- 🌱 I recently graduated from UC San Diego with a degree in Data Science and minors in Business and Design
-- 📫 You can reach me by email at benjaminsacks01@gmail.com
+- ❤️‍🔥 Interested in everything data
+- 🎓 Prev:  Data Science B.S. @ UCSD | Double minor in Business and Design
+- 📚 Current: Statistics M.S. @ SDSU | Researching deep learning approaches for MRI classification
+- 📫 Email at benjaminsacks01@gmail.com
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -10,6 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy"  alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit-learn"  alt="scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow"  alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
