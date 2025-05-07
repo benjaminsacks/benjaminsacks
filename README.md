@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benjaminsacks
 - ❤️‍🔥 Interested in everything data
 - 🎓 Prev:  Data Science B.S. @ UCSD | Double minor in Business and Design
-- 📚 Current: Statistics M.S. @ SDSU | Researching deep learning approaches for MRI classification
+- 📚 Current: Statistics M.S. @ SDSU | Researching deep learning approaches for Brain MRI classification
 - 📫 Email at benjaminsacks01@gmail.com
 
 ### 🛠 &nbsp;Languages and Tools :
